@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task 1</string>
+    <string name="alert_title">No Internet</string>
+    <string name="alert_message">There is no internet connection. Application only can display whatever has loaded previously.</string>
+    <string name="alert_button">OK</string>
+</resources>
